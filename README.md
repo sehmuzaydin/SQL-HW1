@@ -11,6 +11,7 @@ WHERE rental_rate = 0.99 AND replacement_cost = 12.99 OR replacement_cost = 28.9
 # 4
 SELECT * FROM customer
 WHERE first_name = 'Mary';
+
 Last name is: Smith
 # 5
 SELECT * FROM film
